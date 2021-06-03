@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By his Majesties authority. These are to give notice unto all persons, that there is arrived in this place John Newman, a legal and approved practitioner in physick ...</title>
+            <author>Newman, John, doctor.</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27351</idno><idno type="EEBO-CITATION">99888659</idno>
+  <idno type="VID">195870</idno>
+  <idno type="EEBO-PROQUEST">2240903791</idno>
+  
+            <idno type="STC">Wing N923B</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.112.f.9[66]</idno>
+            <idno type="STC">ESTC R231462</idno>
+            <idno type="PROQUEST">ocm99888659</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888659e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27351)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 195870)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; E8:1[66])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By his Majesties authority. These are to give notice unto all persons, that there is arrived in this place John Newman, a legal and approved practitioner in physick ...</title>
+                  <author>Newman, John, doctor.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint information from Wing.</note>
+                  <note>With royal coat of arms at head.</note>
+                  <note>Imperfect: torn at right corner of verso with some loss of text.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Advertising --  Medicine --  Early works to 1800.</term>
+               <term type="topical_term">Medicine --  Formulae, receipts, prescriptions --  Early works to 1800.</term>
+               <term type="topical_term">Physicians --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="advert_for_surgeon">
+            <pb facs="tcp:195870:1"/>
+            <pb facs="tcp:195870:1"/>
+            <head>
+               <figure>
+                  <figDesc>woodcut of English coat of arms, circa 1679</figDesc>
+                  <p>HONI SOIT QVI MAL Y PENSE</p>
+                  <p>DIEV ET MON DROIT</p>
+               </figure>By His MAJESTIES Authority.</head>
+            <p>THese are to give Notice unto all Persons, that there is Arrived in this place <hi>JOHN NEWMAN,</hi> a Legal and Approved Practitioner in Physick, and most expert in all Chyrurgical Operations, who, by means of his great Experience in Twenty years Travel, hath attained to many Rare Secrets in Physick and Chirurgery, by which he hath performed wonder<g ref="char:EOLhyphen"/>ful Cures on many hundreds of People. The Diseases that he Cures, and O<g ref="char:EOLhyphen"/>perations he performs, and daily did in the time of his Travels, are as follows.</p>
+            <p>He dexterously Couches the <hi>Cataract</hi> or <hi>Suffusion;</hi> and helps <hi>Rheums, Specks, Ongula</hi> or the <hi>Nail</hi> in the Eyes, <hi>Dimness, Pearls, weakness,</hi> and all other Infirmi<g ref="char:EOLhyphen"/>ties of the Eyes, if curable. He hath Approved Remedies for the <hi>Falling-sickness, Megrum, Vertigo, Giddiness</hi> in the Head, <hi>Pains</hi> in the Head, although in<g ref="char:EOLhyphen"/>veterate, as those called <hi>Cephalex</hi> and <hi>Hemicrania, Madness, Phrensie,</hi> accidental <hi>Deafness,</hi> Strengthens the Memory, and helps all the Maladies of the Brain. Closeth up the <hi>Hair Lip,</hi> double or single, without deformity. Cures the infirmity of the Nose, called <hi>Polipus,</hi> superfluity of flesh growing in the Nostrils. Stinking <hi>Breath, Scurvy</hi> in the <hi>Gums, Ʋlcers</hi> of the <hi>Mouth,</hi> easeth all pains of the <hi>Teeth,</hi> Whitens <hi>black</hi> and <hi>yellow</hi> Teeth in a moment; He also displaceth Teeth, and sets in Artificial Teeth that to any mans judgment seemeth Natural: Cuts and Cures <hi>Wens,</hi> all sorts of sore <hi>Breasts, Noli me Tan<g ref="char:EOLhyphen"/>gere; Cancers</hi> be they in the Breast, Nose, Lips, or any other part of the Body. He helpeth those that are troubled with difficulty in making Water, as a Carnosity in the Yard, the Stone, Sand, Gravel, Flegm in the Reins or Bladder, and Obstructions in the <hi>Reins,</hi> drives off the <hi>Prima Materia,</hi> slime or filth in the <hi>Reins, Bladder,</hi> or <hi>yard,</hi> and causeth <hi>water</hi> to be Freely made: But if the <hi>Stone</hi> be so big and hard that it cannot be dissolved. He hath a singular good way for the Extraction or Cutting it forth the <hi>Bladder.</hi> He also search<g ref="char:EOLhyphen"/>eth
+<pb facs="tcp:195870:2"/> without any Instrument, and shall let them understand<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the <hi>Stone</hi> before cutting. He Cures all sorts of <hi>Ruptures</hi> eit<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> or <hi>Children;</hi> and seeing them, will Resolve whether they ma<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the Application of any Remedies or not; the which failing,<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> way of Cutting, and heals them in a short time, let them be as<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Head. He maketh excellent <hi>Trusses</hi> that few or none have the like, they serve not only to Cure the Malady, but to prevent it in those that are subject to this Disease by wearing one of his <hi>Trusses.</hi> He Cureth such as <hi>Piss Blood and Matter,</hi> and those that cannot keep their <hi>water, difficulty of Breathing,</hi> the <hi>Cough, Ptisick, Consumption, Fainting, Swooning fits</hi> of all sorts, the <hi>Griping of the Gu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, wind-Cho<g ref="char:EOLhyphen"/>lick,</hi> and all distempers of the <hi>Bowels, Dropsies</hi> of all sorts. Destroyeth and bringeth forth of the bodies of Men, Women, and Children, <hi>worms</hi> of all sorts. Helps <hi>weakness of Digestion, loss of Appetite, Vomitting</hi> all Rains and wind in the <hi>Stomach, Diary, Lieutery, Disentery</hi> or <hi>Bloody-flux, Jaundice, Scurvy, Green-Sickness,</hi> easeth all pain of the <hi>Gout</hi> and <hi>Sciatica.</hi> All distempers inc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dent to Women he likewise cures, as the <hi>Clorises,</hi> hinders <hi>Abortion,</hi> the stoppage of the <hi>Terms</hi> and the fits of the <hi>Mother,</hi> and he hath a sure and certain Remedy against <hi>Barrenness.</hi> He also cures <hi>Cankers, Fistula's, Ʋlcered sore Legs, or scabby Scurvy Legs, Rickets in children.</hi> All sorts of <hi>Agues.</hi> He cures <hi>scald Heads,</hi> the <hi>Hemorhoids</hi> both outward and inward, the <hi>Plurisie,</hi> helps all infirmities of the <hi>Liver, Lungs, and Spleen.</hi> He also cureth <hi>Morbus Gallicus,</hi> or <hi>French-Pox,</hi> the <hi>Runing of the Reins, sharpness of the Ʋrine,</hi> with all things tending thereto by an Art without any peril, with all diligence, care, secresie, and speed possible; His principle aim being to do good to such as are in misery. Courteous Reader, there is no Disease incident to human Bodies, whether External or Internal, from the Head to the Foot, proceeding of what Cause or Causes, Nature, Kind, or Quality soever, that is curable, but the above written will give satisfaction to those that are afflicted with any, and shall acquaint him therewith.</p>
+            <p>I shall not trouble your Ears, to give you an account of the Operations I have perform'd in many parts of <hi>England,</hi> and other places beyond the Seas, but shall let you understand what Operations I have perform'd upon my Stage since my coming into <hi>Moorfields. March</hi> 28. 1679. I cut a large Wen, the big<g ref="char:EOLhyphen"/>ness of a penny lo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f from off the Throat of <hi>Robert Bond</hi> a Carman, and is now very well. <hi>April</hi> 3. 1679. I cut a Cancered Breast from off <hi>Anne Abel,</hi> at the <hi>Rose Inne</hi> in <hi>West-Sm<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>thfield,</hi> and is now in a probable way of Cure. <hi>April</hi> 2. 1679. I cut a large Rupture from <hi>Michael Butts</hi> living next door to the Signe of the <hi>Crown</hi> and <hi>Lamp</hi> in <hi>Gravel-Lane</hi> near <hi>Petticoat-Lane. April</hi> 4. 1679. I cut a <hi>Mealmans</hi> child of a large Hair-Lip, living next door to the <hi>Red-Lyon</hi> and <hi>Axe</hi> in <hi>Redcross-street. April</hi> 10. 1679. I took a large Cancer out of the Mouth of <hi>Anne Tucker,</hi> living in <hi>White-Eagle-street</hi> in <hi>Spittle-fields,</hi> and through the Blessing of God are in a prosperous way of cure, and some of them already cured.</p>
+            <p>Let no man be afraid to come to me because of the long continuance of his Disease, for I have cured them that have been Diseased many years, and given over as uncurable. I Cure the Poor of Wens, Hair-lips, and Cancerated Breasts for Gods sake. Such as have occasion to make use of me, may Repair with their Water to my Lodgings every day of the week at Mr. <hi>Richard Shore</hi>'s house at the Sign of the <hi>Prince</hi> of <hi>Oranges Head</hi> on <hi>VVindmill-Hill</hi> in <hi>Moorfields.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
